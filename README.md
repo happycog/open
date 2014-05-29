@@ -3,6 +3,8 @@ Open
 
 Open source projects by [Happy Cog](http://happycog.com)
 
+* [_animate.scss](https://github.com/happycog/_animate.scss)
+
 Contributing
 ----
 
